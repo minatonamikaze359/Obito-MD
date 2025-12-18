@@ -1,5 +1,5 @@
 // 🌟 Bot Configuration File 🌟
-// Edit these values to personalize your MINATO MD BOT
+// Edit these values to personalize your Obito MD BOT
 
 const settings = {
   // 🏷️ Sticker Settings
